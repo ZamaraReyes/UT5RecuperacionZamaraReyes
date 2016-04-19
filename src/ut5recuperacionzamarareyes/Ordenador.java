@@ -11,7 +11,7 @@ package ut5recuperacionzamarareyes;
  */
 public class Ordenador {
     
-    private String procesador;
+    private String cpu;
     private String memoria;
     private String resolucionPantalla;
     
