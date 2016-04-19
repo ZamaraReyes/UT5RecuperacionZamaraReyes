@@ -24,6 +24,9 @@ public class Ordenador {
     /**
      * Almacena el valor de la resolucion de la pantalla.
      */
+
+    private String cpu;
+    private String ram;
     private String resolucionPantalla;
     
 }
