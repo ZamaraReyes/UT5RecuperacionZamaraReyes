@@ -11,8 +11,19 @@ package ut5recuperacionzamarareyes;
  */
 public class Ordenador {
     
+    /**
+     * Almacena el valor del procesador.
+     */
     private String procesador;
+    
+    /**
+     * Almacena el valor de la memoria.
+     */
     private String memoria;
+    
+    /**
+     * Almacena el valor de la resolucion de la pantalla.
+     */
     private String resolucionPantalla;
     
 }
